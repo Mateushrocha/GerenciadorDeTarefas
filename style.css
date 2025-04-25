@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #e0e0e0;
+}
+.darkmode{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 10%;
+    background-color: dimgray;
+}
+.darkmode p {
+    color: white;
+}
+.cleanmode{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 10%;
+    background-color: antiquewhite;
+}
+.cleanmode p{
+    color: black;
+}
+h1{
+ margin: 10px;
+ margin-bottom: 20px;
+}
+.tarefaNoBrowser{
+    margin: 0;
+    padding: 3px;
+}
+#container{
+    background-color: white;
+    border-radius: 30%;
+    border: solid black 2px;
+    padding: 30px;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
